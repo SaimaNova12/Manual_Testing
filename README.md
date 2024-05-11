@@ -1,3 +1,6 @@
+#### Click here to access the project : 
+https://docs.google.com/spreadsheets/d/1IjQZjo_TGMf1Gp9gwFNi0fzcGSb3p9lX_Kj3G-KOqAc/edit?usp=sharing
+
 # Manual_Testing
 #### MindMap
 - Overview of the whole project, which features are occuring problems which are as per the requirements are clearly visible in mindmaps. Divided into two category Passed and Failed for better visualization.
